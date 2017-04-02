@@ -1,10 +1,19 @@
 # RestoXs
 Web scraping application to push newly restocked goods to users 
+.
++-- init.py
++-- scrape.py
++-- notify.py
++-- restox.py
++-- links_search
 
-\- /
-<br>
-    -- scrape.py  // Web Scraping Logic <br>
-    -- notify.py // Push notication through text/email <br>
-    -- restox.py // Main method <br>
-    -- links_search // text based database for now that stores search restocks <br>
-    -- init.py //init the database and begin scraping  <br>
+# init.py
+Add info here..
+# scrape.py
+Add info here..
+# notify.py
+Add info here..
+# restox.py
+Add info here..
+# links_search
+Add info here..
